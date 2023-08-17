@@ -1,3 +1,4 @@
+package ICS2105TAKEAWAYCATONE;
 public class sockcolor {
     static int sockMerchant(int n, int[] ar) {
         // Initialize an array to store the frequency of each color
