@@ -16,10 +16,10 @@ public class sockcolor {
 
     public static void main(String[] args) {
         // Initialize the array of socks and its size
-        int ar[] = {10, 20, 20, 10, 10, 30, 50, 10, 20};
-        int n = ar.length;
+        int arr[] = {10, 20, 20, 10, 10, 30, 50, 10, 20};
+        int n = arr.length;
         // Count the number of pairs
-        int result = sockMerchant(n, ar);
+        int result = sockMerchant(n, arr);
         // Print the result
         System.out.println(result);
     }
