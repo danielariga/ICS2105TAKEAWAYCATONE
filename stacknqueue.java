@@ -29,7 +29,7 @@ public class stacknqueue {
                         int front = stack2.pop();
                         System.out.println("Dequeued " + front);
                     } else {
-                        System.out.println("Queue is empty");
+                        System.out.println("Queue is has nothing");
                     }
                     break;
                 case 3:
